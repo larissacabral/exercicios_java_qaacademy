@@ -9,4 +9,4 @@ public class Exercicio_02_easy {
         palavraDigitada = JOptionPane.showInputDialog("Digite uma palavra");
         System.out.println("O usuario digitou: " + palavraDigitada);
     }
-}
+} //nada
