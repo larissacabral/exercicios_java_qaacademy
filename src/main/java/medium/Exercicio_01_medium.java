@@ -11,7 +11,7 @@ public class Exercicio_01_medium {
                 System.out.println("Esse numero:" + i + " é IMPAR");
             }
 
-            i++;
+            i++; //
         }
     }
 }
